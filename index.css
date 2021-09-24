@@ -1,8 +1,8 @@
 .box {
-  width: 1px;
+  width: 10px;
   color: red;
   background-color: red;
   height: 199px;
   border-radius: 2000px;
-  border-radius: 200px;
+  border-radius: 2000px;
 }
